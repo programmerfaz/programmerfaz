@@ -43,7 +43,7 @@ A robust and interactive room booking system designed to efficiently manage room
 
 
 
-🔭 I’m currently working on building supervised machine learning projects with different algorithms such as linear regression, logistic regression, KNN etc.
+🔭 I’m currently working on building supervised machine learning projects with different algorithms such as linear regression, logistic regression, KNN etc, also making a responsive Real estate website.
 
 🌱 I’m currently learning: Machine learning (supervised machine learning), Ethical hacking.
 
